@@ -24,7 +24,7 @@ while option_menu !=5:
             for x in range(0, itens_fila):
                 final = input('Insira os itens em sua fila: ');
                 fila.append(final);
-        print('Itens adicionados com sucesso!');
+            print('Itens adicionados com sucesso!');
         print('Retornando ao menu...');
 
 #Removendo itens da Fila
